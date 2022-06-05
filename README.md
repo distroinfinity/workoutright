@@ -1,3 +1,6 @@
+## Try it Out
+https://workoutright.surge.sh/
+
 ## Inspiration
 
 We all know the importance of adopting a healthy lifestyle. Besides keeping your body energized, fitness can also help achieve mental calmness. During the pandemic staying fit was one of the major concerns of many individuals and because of the lockdown and quarantines our whole lifestyle got affected. 
